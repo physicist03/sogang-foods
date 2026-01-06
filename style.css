@@ -29,7 +29,15 @@ input, select, button {
 input::placeholder{color:#8191b4}
 button{cursor:pointer;background:#1b2a4a}
 button:hover{filter:brightness(1.08)}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px;margin-top:14px}
+.grid{
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 16px;
+  margin-top: 16px;
+  align-items: stretch;
+  justify-items: stretch;
+}
 .card{
   border:1px solid #2a3550;
   border-radius:18px;
@@ -38,6 +46,7 @@ button:hover{filter:brightness(1.08)}
   display:flex;
   flex-direction:column;
   gap:10px;
+  width: 100%;
   transition:transform .15s ease, box-shadow .15s ease;
 }
 .card:hover{
