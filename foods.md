@@ -23,7 +23,7 @@
 | 닭장수김밥 | 김밥, 닭강정 | 서울 마포구 백범로 19 1층 | [https://naver.me/G9tat1VA](https://naver.me/G9tat1VA) |
 | 유부선생 | 유부초밥 | 서울 마포구 백범로 17 1층 | [https://naver.me/G1IXK3wh](https://naver.me/G1IXK3wh) |
 | 청석골해장국 | 순대, 해장국 | 서울 마포구 백범로 13 | [https://naver.me/5lZP8wnv](https://naver.me/5lZP8wnv) |
-| 수엠부 | 인도카레 | 서울 마포구 백범로 30 지하 1층 | [https://naver.me/GEAusDQ9](https://naver.me/GEAusDQ9) |
+| 수엠부 | 인도음식 | 서울 마포구 백범로 30 지하 1층 | [https://naver.me/GEAusDQ9](https://naver.me/GEAusDQ9) |
 | 퐁타이 | 태국음식 | 서울 마포구 백범로 8 2층 | [https://naver.me/5Fehp94z](https://naver.me/5Fehp94z) |
 | 거북이의주방 | 카레 | 서울 마포구 백범로1길 8-7 지하 1층 | [https://naver.me/xnKnhvRT](https://naver.me/xnKnhvRT) |
 | 홍두깨칼국수 | 한식 | 서울 마포구 백범로1길 10 | [https://naver.me/xdIMtjvb](https://naver.me/xdIMtjvb) |
@@ -32,6 +32,15 @@
 | 동해횟집 | 회 | 서울 마포구 백범로 17 | [https://naver.me/5izTI9uV](https://naver.me/5izTI9uV) |
 | 홍원 | 중식 | 서울 마포구 백범로 23 지하 1층 | [https://naver.me/GY2cexLe](https://naver.me/GY2cexLe) |
 | 김밥천국 신촌 | 분식 | 서울 마포구 백범로 8 | [https://naver.me/Gj6Xxz4e](https://naver.me/Gj6Xxz4e)  |
+| 옥정 | 한식 | 서울 마포구 신수로 106 | [https://naver.me/5HkHTssX](https://naver.me/5HkHTssX)   |
+| 포옹남 | 베트남음식 | 서울 마포구 서강로16길 67 1층 | [https://naver.me/GlJIL4MR](https://naver.me/GlJIL4MR)   |
+| 서강곱창 | 곱창 | 서울 마포구 서강로16길 67 | [https://naver.me/GG7tSacw](https://naver.me/GG7tSacw)   |
+| 지미존스 | 샌드위치 | 서울 마포구 백범로 28 지상1층 | [https://naver.me/5QiHcwbI](https://naver.me/5QiHcwbI)   |
+| 죠티 | 인도음식 | 서울 마포구 신촌로20길 6 3층 | [https://naver.me/5PVayPfU](https://naver.me/5PVayPfU)   |
+| 쭈꾸미블루스 | 쭈꾸미볶음 | 서울 마포구 백범로1길 21 | [https://naver.me/xFLuPb9b](https://naver.me/xFLuPb9b)   |
+| 올드페퍼 | 양식 | 서울 마포구 백범로 42 | [https://naver.me/53lvXgn8](https://naver.me/53lvXgn8)   |
+| 서강주막 | 요리주점 | 서울 마포구 서강로16길 72 1층 | [https://naver.me/xE6iemmK](https://naver.me/xE6iemmK)   |
+| 얌타이 | 아시아음식 | 서울 마포구 백범로 40 | [https://naver.me/xhlnZOEg](https://naver.me/xhlnZOEg)   |
 
 ---
 
@@ -52,6 +61,14 @@
 | 짜장상회 | 중식 | 서울 마포구 백범로 52 | [https://naver.me/GOuQPIqw](https://naver.me/GOuQPIqw) |
 | 한신우동 | 우동, 돈까스 | 서울 마포구 광성로6길 10 1층 | [https://naver.me/xxYOo0it](https://naver.me/xxYOo0it) |
 | 김밥천국 서강대 | 분식 | 서울 마포구 백범로 68 | [https://naver.me/x9BNjE29](https://naver.me/x9BNjE29)  |
+| 피자스쿨 대흥역점 | 피자 | 서울 마포구 백범로 86 | [https://naver.me/x1VJePs4](https://naver.me/x1VJePs4)   |
+| 김숙성 | 고기 | 서울 마포구 광성로6길 14 1층 | [https://naver.me/5MVzfMVg](https://naver.me/5MVzfMVg)   |
+| 죽마고우 | 한식 | 서울 마포구 광성로 33 1층 | [https://naver.me/x0UP9Uf0](https://naver.me/x0UP9Uf0)   |
+| 리정원 | 고기 | 서울 마포구 백범로10길 30 1층 | [https://naver.me/FK5vMOOL](https://naver.me/FK5vMOOL)   |
+| 지호한방삼계탕 | 삼계탕 | 서울 마포구 독막로 229 1층 | [https://naver.me/FfeYcnvy](https://naver.me/FfeYcnvy)   |
+| 쿠츠 고이짱 | 돈까스 | 서울 마포구 백범로16길 25 | [https://naver.me/FSw7WYWQ](https://naver.me/FSw7WYWQ)   |
+| 피제리아 더키 | 양식 | 서울 마포구 광성로 42-1 1층 102호 | [https://naver.me/5du47RoQ](https://naver.me/5du47RoQ)   |
+| 포엔띠우 | 베트남음식 | 서울 마포구 광성로4길 11-10 지하1층 | [https://naver.me/FhUVRo1a](https://naver.me/FhUVRo1a)   |
 
 ---
 
@@ -71,6 +88,19 @@
 | 정정 | 만두 | 서울 마포구 백범로24길 27 | [https://naver.me/xFprLtR0](https://naver.me/xFprLtR0)  |
 | 하오츠 | 중식 | 서울 마포구 백범로20길 4 | [https://naver.me/F7CyRyJs](https://naver.me/F7CyRyJs)  |
 | 더바스켓 | 치킨, 떡볶이 | 서울 마포구 대흥로 86-1 1층 | [https://naver.me/GbYj9qvX](https://naver.me/GbYj9qvX)  |
+| 연미옥 | 한식, 일식 | 서울 마포구 숭문2길 11 1층 | [https://naver.me/xwmq0QXN](https://naver.me/xwmq0QXN)   | 
+| 김영곤초밥 | 일식 | 서울 마포구 백범로 82 동양엔파트 | [https://naver.me/xUw85gQU](https://naver.me/xUw85gQU)   |
+| 육연타 마포 | 일식 | 서울 마포구 백범로20길 15 1층 | [https://naver.me/58NdQVw9](https://naver.me/58NdQVw9)   |
+| 동막역 | 양식 | 서울 마포구 백범로16안길 33 | [https://naver.me/FDnCUGeW](https://naver.me/FDnCUGeW)   |
+| 샨샨 | 중식 | 서울 마포구 숭문길 43 1층 | [https://naver.me/5l7kzJ6F](https://naver.me/5l7kzJ6F)   |
+| 카츠하나비 | 돈까스 | 서울 마포구 백범로25길 1 1층 | [https://naver.me/GLzAfMJr](https://naver.me/GLzAfMJr)   |
+| 리틀방콕 | 태국음식 | 서울 마포구 백범로24길 11-4 2층 | [https://naver.me/FgHDRTek](https://naver.me/FgHDRTek)   |
+| 버그네 | 한식 | 서울 마포구 숭문길 7-1 | [https://naver.me/G4WCEFRZ](https://naver.me/G4WCEFRZ)   |
+| 아이오밀 | 일식 | 서울 마포구 백범로16안길 15-1 2층 | [https://naver.me/GAL26vfi](https://naver.me/GAL26vfi)   |
+| 이쁜이쭈꾸미 | 쭈꾸미볶음 | 서울 마포구 대흥로 68 | [https://naver.me/5bVfYRy1](https://naver.me/5bVfYRy1)   |
+| 엄마손칼국수 | 한식 | 서울 마포구 백범로20길 12 1층 | [https://naver.me/FG74uJoU](https://naver.me/FG74uJoU)   |
+| 오르노 | 양식 | 서울 마포구 백범로20길 26 1층, 2층 | [https://naver.me/FeXRk8r7](https://naver.me/FeXRk8r7)   |
+
 
 ---
 
@@ -96,6 +126,12 @@
 | 역전할머니맥주 | 술집 | 서울 서대문구 연세로7길 25 1층 | [https://naver.me/FpxlUvkm](https://naver.me/FpxlUvkm)  |
 | 인쌩맥주 | 술집 | 서울 서대문구 연세로7안길 4 1층 | [https://naver.me/xP8mPNVp](https://naver.me/xP8mPNVp)  |
 | 부엉이산장 | 술집 | 서울 서대문구 연세로7길 17 1층 | [https://naver.me/FbOnBq8A](https://naver.me/FbOnBq8A) |
+| 수지상회 | 술집 | 서울 서대문구 연세로7길 13 2층 | [https://naver.me/5Rh0k3cm](https://naver.me/5Rh0k3cm)   |
+| 오향미엔 | 중화술집 | 서울 서대문구 연세로7안길 34-4 1층 | [https://naver.me/FvEg0dCR](https://naver.me/FvEg0dCR)   |
+| 역전포장마차 | 술집 | 서울 서대문구 연세로7길 26 2층 | [https://naver.me/5z52JQKi](https://naver.me/5z52JQKi)   |
+| 용용선생 | 술집 | 서울 서대문구 연세로7길 20 1층 | [https://naver.me/FA2xjf8v](https://naver.me/FA2xjf8v)   |
+| 리춘시장 | 중화술집 | 서울 서대문구 연세로9길 10-4 1층 | [https://naver.me/502MZjiS](https://naver.me/502MZjiS)   |
+
 
 ---
 
@@ -124,3 +160,18 @@
 | 부엉이돈까스 | 양식 | 서울 서대문구 연세로4길 62 | [https://naver.me/IGJyiWhx](https://naver.me/IGJyiWhx)  |
 | 김광석신촌칼국수 | 샤브칼국수 | 서울 마포구 신촌로 124 | [https://naver.me/FDnCdCPB](https://naver.me/FDnCdCPB)  |
 | 제주돈1848 | 고기 | 서울 서대문구 명물길 27-7 | [https://naver.me/xDJu0msh](https://naver.me/xDJu0msh)  |
+| 착한곱창 | 곱창 | 서울 서대문구 연세로9길 19 1층 | [https://naver.me/G386ePVE](https://naver.me/G386ePVE)   |
+| 카츠미 | 규카츠 | 서울 서대문구 연세로7안길 2 2층 | [https://naver.me/GXApzz77](https://naver.me/GXApzz77)   |
+| 153구포국수 | 국수 | 서울 서대문구 연세로5길 4 | [https://naver.me/5ixs4lxu](https://naver.me/5ixs4lxu)   |
+| 아소비바 | 돈까스 | 서울 서대문구 연세로11길 27 1층 | [https://naver.me/FLyTsmex](https://naver.me/FLyTsmex)   |
+| 카라멘야 | 라멘 | 서울 서대문구 연세로7안길 34-1 1층 | [https://naver.me/56R6eSVU](https://naver.me/56R6eSVU)   |
+| 통큰갈비 신촌점 | 고기 | 서울 서대문구 연세로5다길 40 1층 | [https://naver.me/xrSQyxQe](https://naver.me/xrSQyxQe)   |
+| 오천집 | 한식 | 서울 서대문구 신촌로 75 | [https://naver.me/x67uXxSj](https://naver.me/x67uXxSj)   |
+| 숑숑카츠 | 일식 | 서울 서대문구 연세로 18 2층 | [https://naver.me/F0A5sfCQ](https://naver.me/F0A5sfCQ)   |
+| 미도인 | 양식 | 서울 서대문구 명물길 33 2층 | [https://naver.me/xa5RO9Xn](https://naver.me/xa5RO9Xn)   |
+| 마포왕족발 | 족발 | 서울 마포구 공덕동 256-43 | [https://naver.me/GgWkonaA](https://naver.me/GgWkonaA)  |
+| 곱 | 곱창 | 서울 마포구 도화길 31-1 | [https://naver.me/xNLZyAeg](https://naver.me/xNLZyAeg)   |
+| 이춘복참치 | 일식 | 서울 마포구 마포대로 92 B동 2층 1호 | [https://naver.me/GCvqPKqM](https://naver.me/GCvqPKqM)   |
+| 지중해참치 | 일식 | 서울 마포구 새창로 13 | [https://naver.me/GMmLOyUD](https://naver.me/GMmLOyUD)   |
+| 정육면체 | 아시안음식 | 서울 서대문구 연세로5다길 22-8 1층 | [https://naver.me/5ne4qeDp](https://naver.me/5ne4qeDp)   |
+| 풍년닭도리탕 | 한식 | 서울 서대문구 연세로5다길 5 2층 | [https://naver.me/5z52gPEo](https://naver.me/5z52gPEo)   |
