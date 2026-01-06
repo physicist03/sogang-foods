@@ -1,7 +1,6 @@
 const MD_URL = "./foods.md"; // repo 루트에 foods.md
 
 let rawData = [];
-let showNoLink = true;
 
 // UI refs
 const grid = document.getElementById("grid");
@@ -13,7 +12,7 @@ const kind = document.getElementById("kind");
 const sort = document.getElementById("sort");
 const resetBtn = document.getElementById("resetBtn");
 const reloadBtn = document.getElementById("reloadBtn");
-const toggleNoLinkBtn = document.getElementById("toggleNoLinkBtn");
+
 
 function normalize(s){ return (s||"").toString().trim(); }
 
@@ -106,8 +105,7 @@ function getFiltered(){
   const g = gate.value;
   const k = kind.value;
 
-  let out = rawData.filter(d=>{
-    if (!showNoLink && !d.link) return false;
+  let out = rawData.filter(d=>{ 
     if (g && d.gate !== g) return false;
     if (k && d.kind !== k) return false;
 
@@ -178,12 +176,7 @@ resetBtn.addEventListener("click", ()=>{
 });
 
 reloadBtn.addEventListener("click", ()=> loadMd(true));
-
-toggleNoLinkBtn.addEventListener("click", ()=>{
-  showNoLink = !showNoLink;
-  toggleNoLinkBtn.textContent = showNoLink ? "링크 없는 항목 숨기기" : "링크 없는 항목 표시";
-  render();
-});
+    
 
 async function loadMd(bustCache=false){
   statusEl.textContent = "foods.md 불러오는 중…";
