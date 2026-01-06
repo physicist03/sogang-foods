@@ -111,8 +111,19 @@ button:hover{filter:brightness(1.05)}
 }
 
 /* 카드 */
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px;margin-top:14px}
+.grid{
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 16px;
+  margin-top: 16px;
+  align-items: stretch;
+  justify-items: stretch;
+  /* 혹시 부모가 flex여도 한 줄 꽉 차게 */
+  flex: 1 1 100%;
+}
 .card{
+  width: 100%;
   border:1px solid #e5e7eb;
   border-radius:18px;
   background:#ffffff;
