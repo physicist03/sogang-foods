@@ -69,6 +69,8 @@
 | 쿠츠 고이짱 | 돈까스 | 서울 마포구 백범로16길 25 | [https://naver.me/FSw7WYWQ](https://naver.me/FSw7WYWQ)   |
 | 피제리아 더키 | 양식 | 서울 마포구 광성로 42-1 1층 102호 | [https://naver.me/5du47RoQ](https://naver.me/5du47RoQ)   |
 | 포엔띠우 | 베트남음식 | 서울 마포구 광성로4길 11-10 지하1층 | [https://naver.me/FhUVRo1a](https://naver.me/FhUVRo1a)   |
+| 롤앤롤김밥 | 한식 | 서울 마포구 백범로 74 101호 | [https://naver.me/xIeXt7Mw](https://naver.me/xIeXt7Mw)   |
+| 보어드앤헝그리 | 햄버거 | 서울 마포구 광성로6길 36 1층 | [https://naver.me/GPdomWoH](https://naver.me/GPdomWoH)   |
 
 ---
 
@@ -100,6 +102,10 @@
 | 이쁜이쭈꾸미 | 쭈꾸미볶음 | 서울 마포구 대흥로 68 | [https://naver.me/5bVfYRy1](https://naver.me/5bVfYRy1)   |
 | 엄마손칼국수 | 한식 | 서울 마포구 백범로20길 12 1층 | [https://naver.me/FG74uJoU](https://naver.me/FG74uJoU)   |
 | 오르노 | 양식 | 서울 마포구 백범로20길 26 1층, 2층 | [https://naver.me/FeXRk8r7](https://naver.me/FeXRk8r7)   |
+| 정든그릇 | 일식 | 서울 마포구 독막로 239 1층 101호 | [https://naver.me/GubwQDqo](https://naver.me/GubwQDqo)   |
+| 남매밥상 | 한식 | 서울 마포구 독막로 239 1층 102호 | [https://naver.me/56RKovgF](https://naver.me/56RKovgF)   |
+| 떰즈업 | 햄버거 | 서울 마포구 숭문4길 12 1층 | [https://naver.me/GNWDeV9O](https://naver.me/GNWDeV9O)   |
+
 
 
 ---
