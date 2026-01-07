@@ -105,6 +105,7 @@
 | 정든그릇 | 일식 | 서울 마포구 독막로 239 1층 101호 | [https://naver.me/GubwQDqo](https://naver.me/GubwQDqo)   |
 | 남매밥상 | 한식 | 서울 마포구 독막로 239 1층 102호 | [https://naver.me/56RKovgF](https://naver.me/56RKovgF)   |
 | 떰즈업 | 햄버거 | 서울 마포구 숭문4길 12 1층 | [https://naver.me/GNWDeV9O](https://naver.me/GNWDeV9O)   |
+| 통큰갈비 마포공덕점 | 고기 | 서울 마포구 백범로 123 1층 | [https://naver.me/5ssTLYlR](https://naver.me/5ssTLYlR)   |
 
 
 
