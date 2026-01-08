@@ -199,3 +199,54 @@ button:hover{filter:brightness(1.05)}
   border-radius:12px;
   color:#991b1b;
 }
+
+/* 상태 배지 + 우측 묶음 */
+.name .right{
+  display:flex;
+  gap:8px;
+  align-items:center;
+}
+
+/* 영업 상태 */
+.status{
+  font-size:12px;
+  padding:4px 10px;
+  border-radius:999px;
+  border:1px solid #e5e7eb;
+  background:#f3f4f6;
+  color:#374151;
+  white-space:nowrap;
+}
+
+.status.open{
+  background:#ecfdf5;
+  border-color:#a7f3d0;
+  color:#065f46;
+}
+
+.status.break{
+  background:#fffbeb;
+  border-color:#fcd34d;
+  color:#92400e;
+}
+
+.status.closed{
+  background:#f3f4f6;
+  border-color:#e5e7eb;
+  color:#6b7280;
+}
+
+.status.off{
+  background:#fef2f2;
+  border-color:#fecaca;
+  color:#991b1b;
+}
+
+/* 영업시간 문구(그대로 표기) */
+.hours{
+  margin-top: 2px;
+  font-size: 12px;
+  color: #6b7280;
+  line-height: 1.45;
+  word-break: keep-all;
+}
