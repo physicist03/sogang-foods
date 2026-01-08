@@ -250,3 +250,22 @@ button:hover{filter:brightness(1.05)}
   line-height: 1.45;
   word-break: keep-all;
 }
+
+.only-open{
+  display:flex;
+  align-items:center;
+  gap:8px;
+  padding:10px 12px;
+  border:1px solid #e5e7eb;
+  background:#ffffff;
+  border-radius:12px;
+  font-size:13px;
+  color:#374151;
+  user-select:none;
+  white-space:nowrap;
+}
+.only-open input{
+  width:16px;
+  height:16px;
+}
+

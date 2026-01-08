@@ -12,6 +12,7 @@ const kind = document.getElementById("kind");
 const sort = document.getElementById("sort");
 const resetBtn = document.getElementById("resetBtn");
 const reloadBtn = document.getElementById("reloadBtn");
+const onlyOpen = document.getElementById("onlyOpen");
 
 
 function normalize(s){ return (s||"").toString().trim(); }
@@ -252,6 +253,11 @@ function getFiltered(){
   let out = rawData.filter(d=>{ 
     if (g && d.gate !== g) return false;
     if (k && d.kind !== k) return false;
+    if (onlyOpen?.checked) {
+      const st = getOpenStatus(d);
+      if (st.state !== "open") return false;
+    }
+
 
     if (!qq) return true;
     const hay = `${d.name} ${d.kind} ${d.address} ${d.gate}`.toLowerCase();
@@ -342,13 +348,14 @@ grid.addEventListener("click", (e)=>{
   }
 });
 
-[q, gate, kind, sort].forEach(el => el.addEventListener("input", render));
+[q, gate, kind, sort, onlyOpen].forEach(el => el.addEventListener("input", render));
 
 resetBtn.addEventListener("click", ()=>{
   q.value = "";
   gate.value = "";
   kind.value = "";
   sort.value = "gate";
+  onlyOpen.checked = false;
   render();
 });
 
