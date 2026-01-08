@@ -46,60 +46,61 @@
 
 ## 🍀 남문 `South Gate`
 
-| 상호명 | 종류 | 주소 | 링크 | 영업시간 | 
-| --- | --- | --- | --- | --- |
-| 용궁설렁탕 | 설렁탕 | 서울 마포구 백범로 48 | [https://naver.me/5y4j2HGP](https://naver.me/5y4j2HGP) | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 묵은지삼겹냉삼 | 고기 | 서울 마포구 백범로 52 | [https://naver.me/G5JfhNnN](https://naver.me/G5JfhNnN) | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 수저가 | 중식 | 서울 마포구 광성로4길 10 | [https://naver.me/5Gy5cwgt](https://naver.me/5Gy5cwgt) | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 용싸키친 | 양식 | 서울 마포구 서강대길 11 | [https://naver.me/FXZwQpQX](https://naver.me/FXZwQpQX) | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 코코카츠 | 돈까스 | 서울 마포구 백범로 68 1층 | [https://naver.me/IgTDZrxE](https://naver.me/IgTDZrxE) | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 고기마니밥마니 | 고기 | 서울 마포구 백범로 68 | [https://naver.me/FQa6VwxB](https://naver.me/FQa6VwxB) | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 세아마라탕 | 마라탕 | 서울 마포구 백범로 68 | [https://naver.me/5oQw7b2E](https://naver.me/5oQw7b2E) | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 바른치킨 | 치킨 | 서울 마포구 광성로6길 16 | [https://naver.me/FcaglL6x](https://naver.me/FcaglL6x) | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 태광식당 | 한식 | 서울 마포구 광성로6안길 4 | [https://naver.me/xcKmKbiW](https://naver.me/xcKmKbiW) | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 호남식당 | 한식 | 서울 마포구 광성로4길 11-5 | [https://naver.me/GLKNl6MG](https://naver.me/GLKNl6MG) | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 짜장상회 | 중식 | 서울 마포구 백범로 52 | [https://naver.me/GOuQPIqw](https://naver.me/GOuQPIqw) | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 한신우동 | 우동, 돈까스 | 서울 마포구 광성로6길 10 1층 | [https://naver.me/xxYOo0it](https://naver.me/xxYOo0it) | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 김밥천국 서강대 | 분식 | 서울 마포구 백범로 68 | [https://naver.me/x9BNjE29](https://naver.me/x9BNjE29)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 피자스쿨 대흥역점 | 피자 | 서울 마포구 백범로 86 | [https://naver.me/x1VJePs4](https://naver.me/x1VJePs4)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 김숙성 | 고기 | 서울 마포구 광성로6길 14 1층 | [https://naver.me/5MVzfMVg](https://naver.me/5MVzfMVg)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 죽마고우 | 한식 | 서울 마포구 광성로 33 1층 | [https://naver.me/x0UP9Uf0](https://naver.me/x0UP9Uf0)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 리정원 | 고기 | 서울 마포구 백범로10길 30 1층 | [https://naver.me/FK5vMOOL](https://naver.me/FK5vMOOL)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 지호한방삼계탕 | 삼계탕 | 서울 마포구 독막로 229 1층 | [https://naver.me/FfeYcnvy](https://naver.me/FfeYcnvy)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 쿠츠 고이짱 | 돈까스 | 서울 마포구 백범로16길 25 | [https://naver.me/FSw7WYWQ](https://naver.me/FSw7WYWQ)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 피제리아 더키 | 양식 | 서울 마포구 광성로 42-1 1층 102호 | [https://naver.me/5du47RoQ](https://naver.me/5du47RoQ)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 포엔띠우 | 베트남음식 | 서울 마포구 광성로4길 11-10 지하1층 | [https://naver.me/FhUVRo1a](https://naver.me/FhUVRo1a)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
+| 상호명 | 종류 | 주소 | 링크 |
+| --- | --- | --- | --- |
+| 용궁설렁탕 | 설렁탕 | 서울 마포구 백범로 48 | [https://naver.me/5y4j2HGP](https://naver.me/5y4j2HGP) |
+| 묵은지삼겹냉삼 | 고기 | 서울 마포구 백범로 52 | [https://naver.me/G5JfhNnN](https://naver.me/G5JfhNnN) |
+| 수저가 | 중식 | 서울 마포구 광성로4길 10 | [https://naver.me/5Gy5cwgt](https://naver.me/5Gy5cwgt) |
+| 용싸키친 | 양식 | 서울 마포구 서강대길 11 | [https://naver.me/FXZwQpQX](https://naver.me/FXZwQpQX) |
+| 코코카츠 | 돈까스 | 서울 마포구 백범로 68 1층 | [https://naver.me/IgTDZrxE](https://naver.me/IgTDZrxE) |
+| 고기마니밥마니 | 고기 | 서울 마포구 백범로 68 | [https://naver.me/FQa6VwxB](https://naver.me/FQa6VwxB) |
+| 세아마라탕 | 마라탕 | 서울 마포구 백범로 68 | [https://naver.me/5oQw7b2E](https://naver.me/5oQw7b2E) |
+| 바른치킨 | 치킨 | 서울 마포구 광성로6길 16 | [https://naver.me/FcaglL6x](https://naver.me/FcaglL6x) |
+| 태광식당 | 한식 | 서울 마포구 광성로6안길 4 | [https://naver.me/xcKmKbiW](https://naver.me/xcKmKbiW) |
+| 호남식당 | 한식 | 서울 마포구 광성로4길 11-5 | [https://naver.me/GLKNl6MG](https://naver.me/GLKNl6MG) |
+| 짜장상회 | 중식 | 서울 마포구 백범로 52 | [https://naver.me/GOuQPIqw](https://naver.me/GOuQPIqw) |
+| 한신우동 | 우동, 돈까스 | 서울 마포구 광성로6길 10 1층 | [https://naver.me/xxYOo0it](https://naver.me/xxYOo0it) |
+| 김밥천국 서강대 | 분식 | 서울 마포구 백범로 68 | [https://naver.me/x9BNjE29](https://naver.me/x9BNjE29)  |
+| 피자스쿨 대흥역점 | 피자 | 서울 마포구 백범로 86 | [https://naver.me/x1VJePs4](https://naver.me/x1VJePs4)   |
+| 김숙성 | 고기 | 서울 마포구 광성로6길 14 1층 | [https://naver.me/5MVzfMVg](https://naver.me/5MVzfMVg)   |
+| 죽마고우 | 한식 | 서울 마포구 광성로 33 1층 | [https://naver.me/x0UP9Uf0](https://naver.me/x0UP9Uf0)   |
+| 리정원 | 고기 | 서울 마포구 백범로10길 30 1층 | [https://naver.me/FK5vMOOL](https://naver.me/FK5vMOOL)   |
+| 지호한방삼계탕 | 삼계탕 | 서울 마포구 독막로 229 1층 | [https://naver.me/FfeYcnvy](https://naver.me/FfeYcnvy)   |
+| 쿠츠 고이짱 | 돈까스 | 서울 마포구 백범로16길 25 | [https://naver.me/FSw7WYWQ](https://naver.me/FSw7WYWQ)   |
+| 피제리아 더키 | 양식 | 서울 마포구 광성로 42-1 1층 102호 | [https://naver.me/5du47RoQ](https://naver.me/5du47RoQ)   |
+| 포엔띠우 | 베트남음식 | 서울 마포구 광성로4길 11-10 지하1층 | [https://naver.me/FhUVRo1a](https://naver.me/FhUVRo1a)   |
 
 ---
 
 ## 🍀 후문 `Back Gate`
 
-| 상호명 | 종류 | 주소 | 링크 | 영업시간 | 
-| --- | --- | --- | --- | --- |
-| 재모식당 | 한식 | 서울 마포구 대흥로 114-1 | [https://naver.me/xfaD1n8m](https://naver.me/xfaD1n8m)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 옛날짜장기계우동 | 짜장, 우동 | 서울 마포구 대흥로 116 | [https://naver.me/GUvw3J5M](https://naver.me/GUvw3J5M)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 순이네칼국수 | 칼국수,밥 | 서울 마포구 대흥로 114-1 | [https://naver.me/5JJQYFC8](https://naver.me/5JJQYFC8)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 마포광안리 | 덮밥, 회 | 서울 마포구 대흥로20안길 7 1층 | [https://naver.me/xAtWG7wX](https://naver.me/xAtWG7wX)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 톨 | 일식 | 서울 마포구 대흥로20안길 11 1층 | [https://naver.me/57wVnWbY](https://naver.me/57wVnWbY)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 치즈밥있슈 | 치즈밥 | 서울 마포구 숭문길 98 | [https://naver.me/Gi9swNhd](https://naver.me/Gi9swNhd)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 미가 | 한식 | 서울 마포구 숭문길 47 | [https://naver.me/xw6jSbhS](https://naver.me/xw6jSbhS)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 을밀대 | 평양냉면 | 서울 마포구 숭문길 24 | [https://naver.me/GgeuP171](https://naver.me/GgeuP171)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 녹기전에 | 젤라또,, | 서울 마포구 백범로 127-24 | [https://naver.me/5tj4HRdV](https://naver.me/5tj4HRdV)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 정정 | 만두 | 서울 마포구 백범로24길 27 | [https://naver.me/xFprLtR0](https://naver.me/xFprLtR0)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 하오츠 | 중식 | 서울 마포구 백범로20길 4 | [https://naver.me/F7CyRyJs](https://naver.me/F7CyRyJs)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 더바스켓 | 치킨, 떡볶이 | 서울 마포구 대흥로 86-1 1층 | [https://naver.me/GbYj9qvX](https://naver.me/GbYj9qvX)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 연미옥 | 한식, 일식 | 서울 마포구 숭문2길 11 1층 | [https://naver.me/xwmq0QXN](https://naver.me/xwmq0QXN)   |  월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 김영곤초밥 | 일식 | 서울 마포구 백범로 82 동양엔파트 | [https://naver.me/xUw85gQU](https://naver.me/xUw85gQU)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 육연타 마포 | 일식 | 서울 마포구 백범로20길 15 1층 | [https://naver.me/58NdQVw9](https://naver.me/58NdQVw9)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 동막역 | 양식 | 서울 마포구 백범로16안길 33 | [https://naver.me/FDnCUGeW](https://naver.me/FDnCUGeW)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 샨샨 | 중식 | 서울 마포구 숭문길 43 1층 | [https://naver.me/5l7kzJ6F](https://naver.me/5l7kzJ6F)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 카츠하나비 | 돈까스 | 서울 마포구 백범로25길 1 1층 | [https://naver.me/GLzAfMJr](https://naver.me/GLzAfMJr)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 리틀방콕 | 태국음식 | 서울 마포구 백범로24길 11-4 2층 | [https://naver.me/FgHDRTek](https://naver.me/FgHDRTek)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 버그네 | 한식 | 서울 마포구 숭문길 7-1 | [https://naver.me/G4WCEFRZ](https://naver.me/G4WCEFRZ)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 아이오밀 | 일식 | 서울 마포구 백범로16안길 15-1 2층 | [https://naver.me/GAL26vfi](https://naver.me/GAL26vfi)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 이쁜이쭈꾸미 | 쭈꾸미볶음 | 서울 마포구 대흥로 68 | [https://naver.me/5bVfYRy1](https://naver.me/5bVfYRy1)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 엄마손칼국수 | 한식 | 서울 마포구 백범로20길 12 1층 | [https://naver.me/FG74uJoU](https://naver.me/FG74uJoU)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 오르노 | 양식 | 서울 마포구 백범로20길 26 1층, 2층 | [https://naver.me/FeXRk8r7](https://naver.me/FeXRk8r7)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
+| 상호명 | 종류 | 주소 | 링크 |
+| --- | --- | --- | --- |
+| 재모식당 | 한식 | 서울 마포구 대흥로 114-1 | [https://naver.me/xfaD1n8m](https://naver.me/xfaD1n8m)  |
+| 옛날짜장기계우동 | 짜장, 우동 | 서울 마포구 대흥로 116 | [https://naver.me/GUvw3J5M](https://naver.me/GUvw3J5M)  |
+| 순이네칼국수 | 칼국수,밥 | 서울 마포구 대흥로 114-1 | [https://naver.me/5JJQYFC8](https://naver.me/5JJQYFC8)  |
+| 마포광안리 | 덮밥, 회 | 서울 마포구 대흥로20안길 7 1층 | [https://naver.me/xAtWG7wX](https://naver.me/xAtWG7wX)  |
+| 톨 | 일식 | 서울 마포구 대흥로20안길 11 1층 | [https://naver.me/57wVnWbY](https://naver.me/57wVnWbY)  |
+| 치즈밥있슈 | 치즈밥 | 서울 마포구 숭문길 98 | [https://naver.me/Gi9swNhd](https://naver.me/Gi9swNhd)  |
+| 미가 | 한식 | 서울 마포구 숭문길 47 | [https://naver.me/xw6jSbhS](https://naver.me/xw6jSbhS)  |
+| 을밀대 | 평양냉면 | 서울 마포구 숭문길 24 | [https://naver.me/GgeuP171](https://naver.me/GgeuP171)  |
+| 녹기전에 | 젤라또,, | 서울 마포구 백범로 127-24 | [https://naver.me/5tj4HRdV](https://naver.me/5tj4HRdV)  |
+| 정정 | 만두 | 서울 마포구 백범로24길 27 | [https://naver.me/xFprLtR0](https://naver.me/xFprLtR0)  |
+| 하오츠 | 중식 | 서울 마포구 백범로20길 4 | [https://naver.me/F7CyRyJs](https://naver.me/F7CyRyJs)  |
+| 더바스켓 | 치킨, 떡볶이 | 서울 마포구 대흥로 86-1 1층 | [https://naver.me/GbYj9qvX](https://naver.me/GbYj9qvX)  |
+| 연미옥 | 한식, 일식 | 서울 마포구 숭문2길 11 1층 | [https://naver.me/xwmq0QXN](https://naver.me/xwmq0QXN)   | 
+| 김영곤초밥 | 일식 | 서울 마포구 백범로 82 동양엔파트 | [https://naver.me/xUw85gQU](https://naver.me/xUw85gQU)   |
+| 육연타 마포 | 일식 | 서울 마포구 백범로20길 15 1층 | [https://naver.me/58NdQVw9](https://naver.me/58NdQVw9)   |
+| 동막역 | 양식 | 서울 마포구 백범로16안길 33 | [https://naver.me/FDnCUGeW](https://naver.me/FDnCUGeW)   |
+| 샨샨 | 중식 | 서울 마포구 숭문길 43 1층 | [https://naver.me/5l7kzJ6F](https://naver.me/5l7kzJ6F)   |
+| 카츠하나비 | 돈까스 | 서울 마포구 백범로25길 1 1층 | [https://naver.me/GLzAfMJr](https://naver.me/GLzAfMJr)   |
+| 리틀방콕 | 태국음식 | 서울 마포구 백범로24길 11-4 2층 | [https://naver.me/FgHDRTek](https://naver.me/FgHDRTek)   |
+| 버그네 | 한식 | 서울 마포구 숭문길 7-1 | [https://naver.me/G4WCEFRZ](https://naver.me/G4WCEFRZ)   |
+| 아이오밀 | 일식 | 서울 마포구 백범로16안길 15-1 2층 | [https://naver.me/GAL26vfi](https://naver.me/GAL26vfi)   |
+| 이쁜이쭈꾸미 | 쭈꾸미볶음 | 서울 마포구 대흥로 68 | [https://naver.me/5bVfYRy1](https://naver.me/5bVfYRy1)   |
+| 엄마손칼국수 | 한식 | 서울 마포구 백범로20길 12 1층 | [https://naver.me/FG74uJoU](https://naver.me/FG74uJoU)   |
+| 오르노 | 양식 | 서울 마포구 백범로20길 26 1층, 2층 | [https://naver.me/FeXRk8r7](https://naver.me/FeXRk8r7)   |
+
 
 ---
 
@@ -136,41 +137,41 @@
 
 ## 🍀 기타 `etc.`
 
-| 상호명 | 종류 | 주소 | 링크 | 영업시간 | 
-| --- | --- | --- | --- | --- |
-| 부탄츄 | 라멘 | 서울 서대문구 연세로5길 26-9 | [https://naver.me/GSDAxfj1](https://naver.me/GSDAxfj1)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 돈부리모노 | 덮밥 | 서울 서대문구 연세로4길 46 1층 | [https://naver.me/FV7Ykvii](https://naver.me/FV7Ykvii)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 정통집 | 돼지김치구이 | 서울 서대문구 연세로9길 7 1층 | [https://naver.me/Fy2FbABN](https://naver.me/Fy2FbABN)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 구이마을 | 고기 | 서울 서대문구 연세로5가길 32 | [https://naver.me/F884KRIB](https://naver.me/F884KRIB)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 대포찜닭 | 찜닭 | 서울 서대문구 연세로 27-1 대성빌딩 3층 | [https://naver.me/xmxI5K0d](https://naver.me/xmxI5K0d)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 소바연구소 | 우동 | 서울 서대문구 명물길 50-9 1층 | [https://naver.me/FJbW6ACv](https://naver.me/FJbW6ACv)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 대명꼬기 | 고기 | 서울 서대문구 명물길 27-15 | [https://naver.me/GNWkekbo](https://naver.me/GNWkekbo)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 꼬숑돈까스 | 돈까스 | 서울 서대문구 명물1길 2 | [https://naver.me/G386KJvR](https://naver.me/G386KJvR)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 미분당 | 쌀국수 | 서울 서대문구 연세로5길 26-7 1층 | [https://naver.me/xl0DBAeE](https://naver.me/xl0DBAeE)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 돈우마미 | 덮밥 | 서울 서대문구 연세로5길 38 1층 | [https://naver.me/x0UPrgc1](https://naver.me/x0UPrgc1)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 담솥 | 솥밥 | 서울 서대문구 연세로4길 1 지하1층 | [https://naver.me/5apDBcId](https://naver.me/5apDBcId)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 여우골초밥 | 초밥 | 서울 서대문구 연세로5다길 10 | [https://naver.me/58Nd8w1e](https://naver.me/58Nd8w1e)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 모미지식당 | 덮밥 | 서울 서대문구 이화여대7길 24 2층 | [https://naver.me/5EUZaiBE](https://naver.me/5EUZaiBE)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 아웃닭 | 치킨 | 서울 서대문구 연세로4길 19 1층 | [https://naver.me/xFLuBKG0](https://naver.me/xFLuBKG0)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 이름없는파스타 | 파스타 | 서울 서대문구 이화여대7길 5 1층 | [https://naver.me/xY4sIsgR](https://naver.me/xY4sIsgR)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 신성각 | 중식 | 서울 마포구 임정로 55-1  | [https://naver.me/xucpApMm](https://naver.me/xucpApMm)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 고삼이 | 한식 | 서울 서대문구 연세로7안길 38 | [https://naver.me/x9BN6rLT](https://naver.me/x9BN6rLT)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 맛있는순두부 | 한식 | 서울 서대문구 명물길 36 | [https://naver.me/xLWAOfr0](https://naver.me/xLWAOfr0)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 부엉이돈까스 | 양식 | 서울 서대문구 연세로4길 62 | [https://naver.me/IGJyiWhx](https://naver.me/IGJyiWhx)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 김광석신촌칼국수 | 샤브칼국수 | 서울 마포구 신촌로 124 | [https://naver.me/FDnCdCPB](https://naver.me/FDnCdCPB)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 제주돈1848 | 고기 | 서울 서대문구 명물길 27-7 | [https://naver.me/xDJu0msh](https://naver.me/xDJu0msh)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 착한곱창 | 곱창 | 서울 서대문구 연세로9길 19 1층 | [https://naver.me/G386ePVE](https://naver.me/G386ePVE)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 카츠미 | 규카츠 | 서울 서대문구 연세로7안길 2 2층 | [https://naver.me/GXApzz77](https://naver.me/GXApzz77)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 153구포국수 | 국수 | 서울 서대문구 연세로5길 4 | [https://naver.me/5ixs4lxu](https://naver.me/5ixs4lxu)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 아소비바 | 돈까스 | 서울 서대문구 연세로11길 27 1층 | [https://naver.me/FLyTsmex](https://naver.me/FLyTsmex)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 카라멘야 | 라멘 | 서울 서대문구 연세로7안길 34-1 1층 | [https://naver.me/56R6eSVU](https://naver.me/56R6eSVU)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 통큰갈비 신촌점 | 고기 | 서울 서대문구 연세로5다길 40 1층 | [https://naver.me/xrSQyxQe](https://naver.me/xrSQyxQe)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 오천집 | 한식 | 서울 서대문구 신촌로 75 | [https://naver.me/x67uXxSj](https://naver.me/x67uXxSj)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 숑숑카츠 | 일식 | 서울 서대문구 연세로 18 2층 | [https://naver.me/F0A5sfCQ](https://naver.me/F0A5sfCQ)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 미도인 | 양식 | 서울 서대문구 명물길 33 2층 | [https://naver.me/xa5RO9Xn](https://naver.me/xa5RO9Xn)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 마포왕족발 | 족발 | 서울 마포구 공덕동 256-43 | [https://naver.me/GgWkonaA](https://naver.me/GgWkonaA)  | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 곱 | 곱창 | 서울 마포구 도화길 31-1 | [https://naver.me/xNLZyAeg](https://naver.me/xNLZyAeg)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 이춘복참치 | 일식 | 서울 마포구 마포대로 92 B동 2층 1호 | [https://naver.me/GCvqPKqM](https://naver.me/GCvqPKqM)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 지중해참치 | 일식 | 서울 마포구 새창로 13 | [https://naver.me/GMmLOyUD](https://naver.me/GMmLOyUD)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 정육면체 | 아시안음식 | 서울 서대문구 연세로5다길 22-8 1층 | [https://naver.me/5ne4qeDp](https://naver.me/5ne4qeDp)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
-| 풍년닭도리탕 | 한식 | 서울 서대문구 연세로5다길 5 2층 | [https://naver.me/5z52gPEo](https://naver.me/5z52gPEo)   | 월-금 11:00-22:00; BT 15:00-16:00 / 토 11:00-22:00; BT 15:00-16:00 / 일 휴무 |
+| 상호명 | 종류 | 주소 | 링크 |
+| --- | --- | --- | --- |
+| 부탄츄 | 라멘 | 서울 서대문구 연세로5길 26-9 | [https://naver.me/GSDAxfj1](https://naver.me/GSDAxfj1)  |
+| 돈부리모노 | 덮밥 | 서울 서대문구 연세로4길 46 1층 | [https://naver.me/FV7Ykvii](https://naver.me/FV7Ykvii)  |
+| 정통집 | 돼지김치구이 | 서울 서대문구 연세로9길 7 1층 | [https://naver.me/Fy2FbABN](https://naver.me/Fy2FbABN)  |
+| 구이마을 | 고기 | 서울 서대문구 연세로5가길 32 | [https://naver.me/F884KRIB](https://naver.me/F884KRIB)  |
+| 대포찜닭 | 찜닭 | 서울 서대문구 연세로 27-1 대성빌딩 3층 | [https://naver.me/xmxI5K0d](https://naver.me/xmxI5K0d)  |
+| 소바연구소 | 우동 | 서울 서대문구 명물길 50-9 1층 | [https://naver.me/FJbW6ACv](https://naver.me/FJbW6ACv)  |
+| 대명꼬기 | 고기 | 서울 서대문구 명물길 27-15 | [https://naver.me/GNWkekbo](https://naver.me/GNWkekbo)  |
+| 꼬숑돈까스 | 돈까스 | 서울 서대문구 명물1길 2 | [https://naver.me/G386KJvR](https://naver.me/G386KJvR)  |
+| 미분당 | 쌀국수 | 서울 서대문구 연세로5길 26-7 1층 | [https://naver.me/xl0DBAeE](https://naver.me/xl0DBAeE)  |
+| 돈우마미 | 덮밥 | 서울 서대문구 연세로5길 38 1층 | [https://naver.me/x0UPrgc1](https://naver.me/x0UPrgc1)  |
+| 담솥 | 솥밥 | 서울 서대문구 연세로4길 1 지하1층 | [https://naver.me/5apDBcId](https://naver.me/5apDBcId)  |
+| 여우골초밥 | 초밥 | 서울 서대문구 연세로5다길 10 | [https://naver.me/58Nd8w1e](https://naver.me/58Nd8w1e)  |
+| 모미지식당 | 덮밥 | 서울 서대문구 이화여대7길 24 2층 | [https://naver.me/5EUZaiBE](https://naver.me/5EUZaiBE)  |
+| 아웃닭 | 치킨 | 서울 서대문구 연세로4길 19 1층 | [https://naver.me/xFLuBKG0](https://naver.me/xFLuBKG0)  |
+| 이름없는파스타 | 파스타 | 서울 서대문구 이화여대7길 5 1층 | [https://naver.me/xY4sIsgR](https://naver.me/xY4sIsgR)  |
+| 신성각 | 중식 | 서울 마포구 임정로 55-1  | [https://naver.me/xucpApMm](https://naver.me/xucpApMm)  |
+| 고삼이 | 한식 | 서울 서대문구 연세로7안길 38 | [https://naver.me/x9BN6rLT](https://naver.me/x9BN6rLT)  |
+| 맛있는순두부 | 한식 | 서울 서대문구 명물길 36 | [https://naver.me/xLWAOfr0](https://naver.me/xLWAOfr0)  |
+| 부엉이돈까스 | 양식 | 서울 서대문구 연세로4길 62 | [https://naver.me/IGJyiWhx](https://naver.me/IGJyiWhx)  |
+| 김광석신촌칼국수 | 샤브칼국수 | 서울 마포구 신촌로 124 | [https://naver.me/FDnCdCPB](https://naver.me/FDnCdCPB)  |
+| 제주돈1848 | 고기 | 서울 서대문구 명물길 27-7 | [https://naver.me/xDJu0msh](https://naver.me/xDJu0msh)  |
+| 착한곱창 | 곱창 | 서울 서대문구 연세로9길 19 1층 | [https://naver.me/G386ePVE](https://naver.me/G386ePVE)   |
+| 카츠미 | 규카츠 | 서울 서대문구 연세로7안길 2 2층 | [https://naver.me/GXApzz77](https://naver.me/GXApzz77)   |
+| 153구포국수 | 국수 | 서울 서대문구 연세로5길 4 | [https://naver.me/5ixs4lxu](https://naver.me/5ixs4lxu)   |
+| 아소비바 | 돈까스 | 서울 서대문구 연세로11길 27 1층 | [https://naver.me/FLyTsmex](https://naver.me/FLyTsmex)   |
+| 카라멘야 | 라멘 | 서울 서대문구 연세로7안길 34-1 1층 | [https://naver.me/56R6eSVU](https://naver.me/56R6eSVU)   |
+| 통큰갈비 신촌점 | 고기 | 서울 서대문구 연세로5다길 40 1층 | [https://naver.me/xrSQyxQe](https://naver.me/xrSQyxQe)   |
+| 오천집 | 한식 | 서울 서대문구 신촌로 75 | [https://naver.me/x67uXxSj](https://naver.me/x67uXxSj)   |
+| 숑숑카츠 | 일식 | 서울 서대문구 연세로 18 2층 | [https://naver.me/F0A5sfCQ](https://naver.me/F0A5sfCQ)   |
+| 미도인 | 양식 | 서울 서대문구 명물길 33 2층 | [https://naver.me/xa5RO9Xn](https://naver.me/xa5RO9Xn)   |
+| 마포왕족발 | 족발 | 서울 마포구 공덕동 256-43 | [https://naver.me/GgWkonaA](https://naver.me/GgWkonaA)  |
+| 곱 | 곱창 | 서울 마포구 도화길 31-1 | [https://naver.me/xNLZyAeg](https://naver.me/xNLZyAeg)   |
+| 이춘복참치 | 일식 | 서울 마포구 마포대로 92 B동 2층 1호 | [https://naver.me/GCvqPKqM](https://naver.me/GCvqPKqM)   |
+| 지중해참치 | 일식 | 서울 마포구 새창로 13 | [https://naver.me/GMmLOyUD](https://naver.me/GMmLOyUD)   |
+| 정육면체 | 아시안음식 | 서울 서대문구 연세로5다길 22-8 1층 | [https://naver.me/5ne4qeDp](https://naver.me/5ne4qeDp)   |
+| 풍년닭도리탕 | 한식 | 서울 서대문구 연세로5다길 5 2층 | [https://naver.me/5z52gPEo](https://naver.me/5z52gPEo)   |
