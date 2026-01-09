@@ -175,9 +175,9 @@
 | 오천집 | 한식 | 서울 서대문구 신촌로 75 | [https://naver.me/x67uXxSj](https://naver.me/x67uXxSj)   | 매일 00:00-24:00 |
 | 솜솜카츠 | 일식 | 서울 서대문구 연세로 18 2층 | [https://naver.me/F0A5sfCQ](https://naver.me/F0A5sfCQ)   | 매일 11:00-22:00 |
 | 미도인 | 양식 | 서울 서대문구 명물길 33 2층 | [https://naver.me/xa5RO9Xn](https://naver.me/xa5RO9Xn)   | 매일 11:30-21:00; BT 15:00-17:00 |
-| 마포왕족발 | 족발 | 서울 마포구 공덕동 256-43 | [https://naver.me/GgWkonaA](https://naver.me/GgWkonaA)  | 매일 08:00-03:00 / 2, 4번째 일요일 휴무|
+| 마포왕족발 | 족발 | 서울 마포구 공덕동 256-43 | [https://naver.me/GgWkonaA](https://naver.me/GgWkonaA)  | 매일 08:00-03:00 |
 | 곱 | 곱창 | 서울 마포구 도화길 31-1 | [https://naver.me/xNLZyAeg](https://naver.me/xNLZyAeg)   | 월-토 16:00-23:30 / 일 15:00-23:00 |
 | 이춘복참치 | 일식 | 서울 마포구 마포대로 92 B동 2층 1호 | [https://naver.me/GCvqPKqM](https://naver.me/GCvqPKqM)   | 매일 11:00-24:00; BT 14:30-16:30 |
 | 지중해참치 | 일식 | 서울 마포구 새창로 13 | [https://naver.me/GMmLOyUD](https://naver.me/GMmLOyUD)   | 월-토 16:00-01:00 / 일 휴무 |
 | 정육면체 | 아시안음식 | 서울 서대문구 연세로5다길 22-8 1층 | [https://naver.me/5ne4qeDp](https://naver.me/5ne4qeDp)   | 매일 11:00-21:00 |
-| 풍년닭도리탕 | 한식 | 서울 서대문구 연세로5다길 5 2층 | [https://naver.me/5z52gPEo](https://naver.me/5z52gPEo)   | 매일 11:00-22:00; BT 15:00-16:30 / 1, 3번째 일요일 휴무 |
+| 풍년닭도리탕 | 한식 | 서울 서대문구 연세로5다길 5 2층 | [https://naver.me/5z52gPEo](https://naver.me/5z52gPEo)   | 매일 11:00-22:00; BT 15:00-16:30 |
